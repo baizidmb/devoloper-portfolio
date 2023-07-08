@@ -1,0 +1,58 @@
+body{
+    
+    font-family: 'Open Sans', sans-serif;
+    color: #181818;
+    font-family: Open Sans;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+
+}
+
+.btn-primary{
+
+     border-radius: 5px;
+     background:#FD6E0A ;
+     border: 0;
+     color: white;
+     font-size: 20px;
+     font-weight: 700;
+     padding: 16px 34px;
+
+
+
+}
+
+nav{
+
+    display: flex;
+    color: #181818;
+    font-family: Open Sans;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    justify-content: space-between;
+    align-items: center;
+}
+nav > ul{
+
+align-items: center;
+    display:flex;
+}
+.primary-color{
+
+    color: #FD6E0A;
+}
+nav li{
+
+    list-style: none;
+    margin-right: 50px;
+}
+nav a{
+
+    text-decoration: none;
+    color: #474747;
+
+}
